@@ -1,9 +1,9 @@
 {
-    "name": "bitcoin-php/bitcoin-ecdsa",
+    "name": "dragu/bitcoin-ecdsa",
     "type": "library",
     "description": "PHP library allowing to generate BTC addresses from private keys",
     "keywords": ["ECDSA","Bitcoin"],
-    "homepage": "https://github.com/BitcoinPHP/BitcoinECDSA.php",
+    "homepage": "https://github.com/dragu/BitcoinECDSA.php",
     "license": "unlicense",
     "authors": [
         {
